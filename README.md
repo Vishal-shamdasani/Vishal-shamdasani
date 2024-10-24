@@ -1,6 +1,8 @@
+<img src="img/computer.gif" width="100%"/>
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Python Developer 🐍 | Web & Data Science Enthusiast 📊</h3>
 
+<img src="./img/message.gif" width="250px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal-shamdasani&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-shamdasani" /> </p>
 
 - 💬 Ask me about **Python, Flask, HTML, CSS, Data Science**
