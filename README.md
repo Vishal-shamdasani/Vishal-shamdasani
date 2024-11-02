@@ -1,5 +1,5 @@
 <img src="img/computer.gif" width="100%"/>
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Vishal Shamdasani</h1>
 <h3 align="center">Python Developer 🐍 | Web & Data Science Enthusiast 📊</h3>
 
 <img src="./img/message.gif" width="250px" align="right">
