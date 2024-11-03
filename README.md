@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal-shamdasani&show_icons=true&locale=en&layout=compact" alt="Vishal-shamdasani" height="50vw" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal-shamdasani&show_icons=true&locale=en&layout=compact" alt="Vishal-shamdasani" height="150px" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishal-shamdasani&show_icons=true&locale=en" alt="Vishal-shamdasani" /></p>
